@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1644922665 source:/home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/main.cpp
+
+1644922665 source:/home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/mainExemple.cpp
+	"Image.h"
+
+1644922664 /home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/Image.h
+	"Pixel.h"
+	<string>
+
+1644922668 /home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/Pixel.h
+
+1644922666 source:/home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/mainTest.cpp
+	"Image.h"
+
+1644922667 source:/home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/Pixel.cpp
+	"Pixel.h"
+
+1644922677 source:/home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/Image.cpp
+	"Image.h"
+	"Pixel.h"
+	<cassert>
+	<string>
+	<iostream>
+	<fstream>
+	<SDL2/SDL.h>
+
+1644922668 source:/home/sami/Documents/lifap4/L2_ConceptionDevApp/LIFAP4_TD/mainAffichage.cpp
+	"Image.h"
+
